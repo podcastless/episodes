@@ -3,12 +3,12 @@ name: Episode
 about: Create an episode
 ---
 
----
-season:
-episode:
-title:
-date:
----
+|          |   |
+| -------- | - |
+| season   |   |
+| episode  |   |
+| title    |   |
+| date     |   |
 
 # Checklist
 
